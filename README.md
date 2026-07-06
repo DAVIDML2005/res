@@ -33,7 +33,7 @@ Dependiendo de las raíces obtenidas:
   Si una raíz \(r\) tiene multiplicidad 1, la solución contiene un término de la forma
 
 $$
-c\,r^n
+cr^n
 $$
 
 
@@ -42,7 +42,7 @@ $$
   Si una raíz \(r\) tiene multiplicidad \(k\), la solución contiene un término de la forma
 
 $$
-(c_0 + c_1n + \cdots + c_{k-1}n^{k-1})\,r^n
+(c_0 + c_1n + \cdots + c_{k-1}n^{k-1})r^n
 $$
 
 Finalmente, los coeficientes desconocidos se determinan resolviendo un sistema lineal construido a partir de las condiciones iniciales.
